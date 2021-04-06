@@ -1,0 +1,14 @@
+name: PartyGames
+author: SpaceTacos
+main: net.spacetacos.partygames.PartyGamesPlugin
+version: ${project.version}
+api-version: 1.16
+depend:
+  - MiniGameLibrary
+commands:
+  partygames:
+    aliases:
+      - pg
+      - erolisgenius
+      - factbulldog
+      - harrygreatatbuild
